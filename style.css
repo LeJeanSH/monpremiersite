@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.w30{
+    width: 30%;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.space-around{
+    justify-content: space-around;
+}
+
+.column{
+    flex-direction: column;
+}
+
+.mr128{
+    margin-right: 128px;
+}
+
+.pt32{
+    padding-top: 64px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.size-32{
+    font-size: 32px;
+}
+
+.bold{
+    font-weight: 600;
+}
